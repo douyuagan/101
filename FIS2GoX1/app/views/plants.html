@@ -1,0 +1,30 @@
+﻿ <main class="col-sm-9 offset-sm-3 col-md-10 offset-md-2 pt-3">
+
+        <br />
+        <h1>Plant Selection</h1>
+        <br />
+        <section class="row">
+            <div class="offset-md-1 col-md-10">
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1"><i class="fa fa-search"></i></span>
+                    <input type="text" class="form-control" placeholder="Search Plants..." aria-describedby="sizing-addon1" ng-model="display.Search">
+                </div>
+            </div>
+        </section>
+        <br />
+        <section class="row" ng-repeat="plant in display.UnsplitPlants">
+            <div class="offset-md-1 col-md-10">
+                <div class="list-group" ng-click="goDetail(plant.PlantCode)">
+                    <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">{{plant.PlantCode}}</h5>
+                            <small>{{plant.PlantName}}</small>
+                        </div>
+                        <p class="mb-1">Areas: <span ng-repeat="area in plant.Areas">{{area.AreaName}} </span> </p>
+                        <small>(Click to Add Assets)</small>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+

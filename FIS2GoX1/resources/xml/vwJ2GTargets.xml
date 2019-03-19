@@ -1,0 +1,592 @@
+﻿<vwJ2GTargets>
+  <Site SiteID="68">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>AAT</PlantCode>
+    <PlantName>AutoAlliance Thailand</PlantName>
+    <ServerFQDN>AAT03314.rayong.ford.com</ServerFQDN>
+    <SiteID>68</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="36">
+    <Division>PTO</Division>
+    <Region>EU</Region>
+    <PlantCode>BTP</PlantCode>
+    <PlantName>Bordeaux Transmission</PlantName>
+    <ServerFQDN>FAI03006.bordeaux.ford.com</ServerFQDN>
+    <SiteID>36</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="64">
+    <Division>SBU</Division>
+    <Region>NA</Region>
+    <PlantCode>BSP</PlantCode>
+    <PlantName>Buffalo Stamping</PlantName>
+    <ServerFQDN>FCDB1359.md3.ford.com</ServerFQDN>
+    <SiteID>64</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="1">
+    <Division>VO</Division>
+    <Region>SA</Region>
+    <PlantCode>CAM</PlantCode>
+    <PlantName>Camacari Assembly</PlantName>
+    <ServerFQDN>CAM03204.nordeste.ford.com</ServerFQDN>
+    <SiteID>1</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="39">
+    <Division>PTO</Division>
+    <Region>SA</Region>
+    <PlantCode>CAMEP</PlantCode>
+    <PlantName>Camacari Engine</PlantName>
+    <ServerFQDN>CAM03304.nordeste.ford.com</ServerFQDN>
+    <SiteID>39</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="52">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>CAF3</PlantCode>
+    <PlantName>Chang An Ford Assembly #3</PlantName>
+    <ServerFQDN>CCT02042.chongqing2.ford.com</ServerFQDN>
+    <SiteID>52</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="71">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>CAF5</PlantCode>
+    <PlantName>Chang An Ford Assembly #5</PlantName>
+    <ServerFQDN>CCH03004.harbin.ford.com</ServerFQDN>
+    <SiteID>71</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="33">
+    <Division>PTO</Division>
+    <Region>AP</Region>
+    <PlantCode>CAFEP</PlantCode>
+    <PlantName>Chang An Ford Engine</PlantName>
+    <ServerFQDN>CCT03004.chongqing2.ford.com</ServerFQDN>
+    <SiteID>33</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="44">
+    <Division>PTO</Division>
+    <Region>AP</Region>
+    <PlantCode>CAFTP</PlantCode>
+    <PlantName>Chang An Ford Transmission</PlantName>
+    <ServerFQDN>CCT04004.chongqing2.ford.com</ServerFQDN>
+    <SiteID>44</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="53">
+    <Division>VO</Division>
+    <Region>EU</Region>
+    <PlantCode>CHL</PlantCode>
+    <PlantName>Chelny Assembly</PlantName>
+    <ServerFQDN>CHL03019.chelny.ford.com</ServerFQDN>
+    <SiteID>53</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="80">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>CVAP</PlantCode>
+    <PlantName>Chennai Assembly</PlantName>
+    <ServerFQDN>ICM03087.madras.ford.com</ServerFQDN>
+    <SiteID>80</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="2">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>CAP</PlantCode>
+    <PlantName>Chicago Assembly</PlantName>
+    <ServerFQDN>CHG03186.chicagoassy.ford.com</ServerFQDN>
+    <SiteID>2</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="5">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>CHEP</PlantCode>
+    <PlantName>Chihuahua Engine</PlantName>
+    <ServerFQDN>CHE03042.chihuahua.ford.com</ServerFQDN>
+    <SiteID>5</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="79">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>CHEP3</PlantCode>
+    <PlantName>Chihuahua Engine #3</PlantName>
+    <ServerFQDN>CH303042.chihuahua.ford.com</ServerFQDN>
+    <SiteID>79</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="3">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>CEP1</PlantCode>
+    <PlantName>Cleveland Engine</PlantName>
+    <ServerFQDN>CE103008.cleveland.ford.com</ServerFQDN>
+    <SiteID>3</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="73">
+    <Division>VO</Division>
+    <Region>EU</Region>
+    <PlantCode>COL</PlantCode>
+    <PlantName>Cologne Body &amp; Assembly</PlantName>
+    <ServerFQDN>NER02083.niehl.ford.com</ServerFQDN>
+    <SiteID>73</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="63">
+    <Division>PTO</Division>
+    <Region>EU</Region>
+    <PlantCode>KEP</PlantCode>
+    <PlantName>Cologne Engine</PlantName>
+    <ServerFQDN>NIE03002.niehl.ford.com</ServerFQDN>
+    <SiteID>63</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="81">
+    <Division>PTO</Division>
+    <Region>EU</Region>
+    <PlantCode>CEPRo</PlantCode>
+    <PlantName>Craiova Engine</PlantName>
+    <ServerFQDN>CVE03027.craiova.ford.com</ServerFQDN>
+    <SiteID>81</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="6">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>CuAP</PlantCode>
+    <PlantName>Cuautitlan Assembly</PlantName>
+    <ServerFQDN>CUA03033.cuautitlan.ford.com</ServerFQDN>
+    <SiteID>6</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="60">
+    <Division>PTO</Division>
+    <Region>EU</Region>
+    <PlantCode>DEP</PlantCode>
+    <PlantName>Dagenham Engine</PlantName>
+    <ServerFQDN>DGE03427.dagenham.ford.com</ServerFQDN>
+    <SiteID>60</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="7">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>DEFTP</PlantCode>
+    <PlantName>Dearborn Engine &amp; Fuel Tank</PlantName>
+    <ServerFQDN>DEP03028.dearborneng.ford.com</ServerFQDN>
+    <SiteID>7</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="55">
+    <Division>SBU</Division>
+    <Region>NA</Region>
+    <PlantCode>DSP</PlantCode>
+    <PlantName>Dearborn Stamping</PlantName>
+    <ServerFQDN>ECCDB1579.md1.ford.com</ServerFQDN>
+    <SiteID>55</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="8">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>DTP</PlantCode>
+    <PlantName>Dearborn Truck</PlantName>
+    <ServerFQDN>DTP03310.dearborntruck.ford.com</ServerFQDN>
+    <SiteID>8</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>6</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="50">
+    <Division>VO</Division>
+    <Region>EU</Region>
+    <PlantCode>ELA</PlantCode>
+    <PlantName>Elabuga Assembly</PlantName>
+    <ServerFQDN>ELA03019.elabuga.ford.com</ServerFQDN>
+    <SiteID>50</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="61">
+    <Division>PTO</Division>
+    <Region>EU</Region>
+    <PlantCode>ElaEP</PlantCode>
+    <PlantName>Elabuga Engine</PlantName>
+    <ServerFQDN>ELA03030.elabuga.ford.com</ServerFQDN>
+    <SiteID>61</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="9">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>EEP</PlantCode>
+    <PlantName>Essex Engine</PlantName>
+    <ServerFQDN>ESE03067.essexeng.ford.com</ServerFQDN>
+    <SiteID>9</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="32">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>FRAP</PlantCode>
+    <PlantName>Flat Rock Assembly</PlantName>
+    <ServerFQDN>FLR03072.flatrock.ford.com</ServerFQDN>
+    <SiteID>32</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="10">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>FTM</PlantCode>
+    <PlantName>Ford Thailand Motors</PlantName>
+    <ServerFQDN>TCF03003.chonburi.ford.com</ServerFQDN>
+    <SiteID>10</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="56">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>CAF-HZ</PlantCode>
+    <PlantName>Hangzhou Assembly</PlantName>
+    <ServerFQDN>CFH03004.hangzhou.ford.com</ServerFQDN>
+    <SiteID>56</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="11">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>HSAP</PlantCode>
+    <PlantName>Hermosillo Assembly</PlantName>
+    <ServerFQDN>HMO03060.hermosillo.ford.com</ServerFQDN>
+    <SiteID>11</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="77">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>ITP</PlantCode>
+    <PlantName>Irapuato Transmission</PlantName>
+    <ServerFQDN>ITP03042.irapuato.ford.com</ServerFQDN>
+    <SiteID>77</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="12">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>KCAT</PlantCode>
+    <PlantName>Kansas City Truck</PlantName>
+    <ServerFQDN>KCA03212.kansascity.ford.com</ServerFQDN>
+    <SiteID>12</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="31">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>KCAV</PlantCode>
+    <PlantName>Kansas City Van</PlantName>
+    <ServerFQDN>KCA03222.kansascity.ford.com</ServerFQDN>
+    <SiteID>31</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="13">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>KTP</PlantCode>
+    <PlantName>Kentucky Truck</PlantName>
+    <ServerFQDN>KTP03077.ktp.ford.com</ServerFQDN>
+    <SiteID>13</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="78">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>KTP2</PlantCode>
+    <PlantName>Kentucky Truck #2</PlantName>
+    <ServerFQDN>KTP03087.ktp.ford.com</ServerFQDN>
+    <SiteID>78</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="15">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>LEP</PlantCode>
+    <PlantName>Lima Engine</PlantName>
+    <ServerFQDN>LEP03421.lima.ford.com</ServerFQDN>
+    <SiteID>15</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="16">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>LTP</PlantCode>
+    <PlantName>Livonia Transmission</PlantName>
+    <ServerFQDN>LTP03706.livoniatrans.ford.com</ServerFQDN>
+    <SiteID>16</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="66">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>LTP2</PlantCode>
+    <PlantName>Livonia Transmission #2</PlantName>
+    <ServerFQDN>LTP03716.livoniatrans.ford.com</ServerFQDN>
+    <SiteID>66</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="14">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>LAP</PlantCode>
+    <PlantName>Louisville Assembly</PlantName>
+    <ServerFQDN>LSV03051.louisville.ford.com</ServerFQDN>
+    <SiteID>14</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="17">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>MAC</PlantCode>
+    <PlantName>Michigan Assembly</PlantName>
+    <ServerFQDN>MTK03478.michtruck.ford.com</ServerFQDN>
+    <SiteID>17</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="18">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>OAC</PlantCode>
+    <PlantName>Oakville Assembly</PlantName>
+    <ServerFQDN>OAK03193.oakville.ford.com</ServerFQDN>
+    <SiteID>18</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="19">
+    <Division>VO</Division>
+    <Region>NA</Region>
+    <PlantCode>OHAP</PlantCode>
+    <PlantName>Ohio Assembly</PlantName>
+    <ServerFQDN>OHP03152.ohioassy.ford.com</ServerFQDN>
+    <SiteID>19</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="20">
+    <Division>VO</Division>
+    <Region>SA</Region>
+    <PlantCode>PAP</PlantCode>
+    <PlantName>Pacheco Assembly</PlantName>
+    <ServerFQDN>PAC03207.pacheco.ford.com</ServerFQDN>
+    <SiteID>20</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="21">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>RAW</PlantCode>
+    <PlantName>Rawsonville Components</PlantName>
+    <ServerFQDN>FCDB1616.md1.ford.com</ServerFQDN>
+    <SiteID>21</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="22">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>REP</PlantCode>
+    <PlantName>Romeo Engine</PlantName>
+    <ServerFQDN>REP03046.romeo.ford.com</ServerFQDN>
+    <SiteID>22</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="76">
+    <Division>VO</Division>
+    <Region>EU</Region>
+    <PlantCode>SLS</PlantCode>
+    <PlantName>Saarlouis Assembly</PlantName>
+    <ServerFQDN>SLR03139.saarlouis.ford.com</ServerFQDN>
+    <SiteID>76</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="46">
+    <Division>VO</Division>
+    <Region>AP</Region>
+    <PlantCode>SVAP</PlantCode>
+    <PlantName>Sanand Assembly</PlantName>
+    <ServerFQDN>IAS03053.sanand.ford.com</ServerFQDN>
+    <SiteID>46</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="45">
+    <Division>PTO</Division>
+    <Region>AP</Region>
+    <PlantCode>SaEP</PlantCode>
+    <PlantName>Sanand Engine</PlantName>
+    <ServerFQDN>IAS03002.sanand.ford.com</ServerFQDN>
+    <SiteID>45</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="47">
+    <Division>VO</Division>
+    <Region>SA</Region>
+    <PlantCode>SBC</PlantCode>
+    <PlantName>Sao Bernardo Assembly</PlantName>
+    <ServerFQDN>SBC03215.saobernardo.ford.com</ServerFQDN>
+    <SiteID>47</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="23">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>SHV</PlantCode>
+    <PlantName>Sharonville Transmission</PlantName>
+    <ServerFQDN>SHV03152.sharonville.ford.com</ServerFQDN>
+    <SiteID>23</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="67">
+    <Division>VO</Division>
+    <Region>MEA</Region>
+    <PlantCode>FMCSA</PlantCode>
+    <PlantName>Silverton Assembly</PlantName>
+    <ServerFQDN>PRE02069.pretoria.ford.com</ServerFQDN>
+    <SiteID>67</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="24">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>STR</PlantCode>
+    <PlantName>Sterling Axle</PlantName>
+    <ServerFQDN>FCDB985.fmc2.ford.com</ServerFQDN>
+    <SiteID>24</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="38">
+    <Division>PTO</Division>
+    <Region>SA</Region>
+    <PlantCode>TEP</PlantCode>
+    <PlantName>Taubate Engine &amp; Transmission</PlantName>
+    <ServerFQDN>TAU03116.taubate.ford.com</ServerFQDN>
+    <SiteID>38</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="57">
+    <Division>VO</Division>
+    <Region>EU</Region>
+    <PlantCode>VAL</PlantCode>
+    <PlantName>Valencia Body &amp; Assembly</PlantName>
+    <ServerFQDN>VAL03088.valencia.ford.com</ServerFQDN>
+    <SiteID>57</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="72">
+    <Division>PTO</Division>
+    <Region>EU</Region>
+    <PlantCode>VEP</PlantCode>
+    <PlantName>Valencia Engine</PlantName>
+    <ServerFQDN>VAE03920.valencia.ford.com</ServerFQDN>
+    <SiteID>72</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="25">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>VDK</PlantCode>
+    <PlantName>Van Dyke Transmission</PlantName>
+    <ServerFQDN>VDK03841.vandyke.ford.com</ServerFQDN>
+    <SiteID>25</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="26">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>WEP</PlantCode>
+    <PlantName>Windsor Engine</PlantName>
+    <ServerFQDN>WEP03044.windsoreng.ford.com</ServerFQDN>
+    <SiteID>26</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="34">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>WEPA</PlantCode>
+    <PlantName>Windsor Engine Annex</PlantName>
+    <ServerFQDN>WEP03049.windsoreng.ford.com</ServerFQDN>
+    <SiteID>34</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+  <Site SiteID="59">
+    <Division>PTO</Division>
+    <Region>NA</Region>
+    <PlantCode>WFP</PlantCode>
+    <PlantName>Woodhaven Forge</PlantName>
+    <ServerFQDN>FCVDB359.md3.ford.com</ServerFQDN>
+    <SiteID>59</SiteID>
+    <Visible>1</Visible>
+    <ConcurrencyThreshold>15</ConcurrencyThreshold>
+  </Site>
+</vwJ2GTargets>

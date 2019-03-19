@@ -1,0 +1,1108 @@
+﻿<vwJ2GAreas>
+  <Area SiteID="1" AreaID="73">
+    <SiteID>1</SiteID>
+    <AreaID>73</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="1" AreaID="75">
+    <SiteID>1</SiteID>
+    <AreaID>75</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="1" AreaID="74">
+    <SiteID>1</SiteID>
+    <AreaID>74</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="2" AreaID="24">
+    <SiteID>2</SiteID>
+    <AreaID>24</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="2" AreaID="25">
+    <SiteID>2</SiteID>
+    <AreaID>25</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="2" AreaID="26">
+    <SiteID>2</SiteID>
+    <AreaID>26</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="3" AreaID="1">
+    <SiteID>3</SiteID>
+    <AreaID>1</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="3" AreaID="60">
+    <SiteID>3</SiteID>
+    <AreaID>60</AreaID>
+    <AreaName>D35 Assembly</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="3" AreaID="114">
+    <SiteID>3</SiteID>
+    <AreaID>114</AreaID>
+    <AreaName>D20 Assembly</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="5" AreaID="3">
+    <SiteID>5</SiteID>
+    <AreaID>3</AreaID>
+    <AreaName>CHEP II</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="5" AreaID="109">
+    <SiteID>5</SiteID>
+    <AreaID>109</AreaID>
+    <AreaName>CHEP I</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="6" AreaID="27">
+    <SiteID>6</SiteID>
+    <AreaID>27</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="6" AreaID="28">
+    <SiteID>6</SiteID>
+    <AreaID>28</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="6" AreaID="29">
+    <SiteID>6</SiteID>
+    <AreaID>29</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="7" AreaID="4">
+    <SiteID>7</SiteID>
+    <AreaID>4</AreaID>
+    <AreaName>Dearborn Engine Plant</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="8" AreaID="30">
+    <SiteID>8</SiteID>
+    <AreaID>30</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="8" AreaID="31">
+    <SiteID>8</SiteID>
+    <AreaID>31</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="8" AreaID="32">
+    <SiteID>8</SiteID>
+    <AreaID>32</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="9" AreaID="6">
+    <SiteID>9</SiteID>
+    <AreaID>6</AreaID>
+    <AreaName>Engine/Cranks/ Rods/CHA</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="9" AreaID="5">
+    <SiteID>9</SiteID>
+    <AreaID>5</AreaID>
+    <AreaName>Block/2018 CHA/2018 PRA</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="10" AreaID="33">
+    <SiteID>10</SiteID>
+    <AreaID>33</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="10" AreaID="34">
+    <SiteID>10</SiteID>
+    <AreaID>34</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="10" AreaID="35">
+    <SiteID>10</SiteID>
+    <AreaID>35</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="11" AreaID="36">
+    <SiteID>11</SiteID>
+    <AreaID>36</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="11" AreaID="37">
+    <SiteID>11</SiteID>
+    <AreaID>37</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="11" AreaID="107">
+    <SiteID>11</SiteID>
+    <AreaID>107</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="12" AreaID="40">
+    <SiteID>12</SiteID>
+    <AreaID>40</AreaID>
+    <AreaName>Truck Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="12" AreaID="41">
+    <SiteID>12</SiteID>
+    <AreaID>41</AreaID>
+    <AreaName>Truck Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="12" AreaID="115">
+    <SiteID>12</SiteID>
+    <AreaID>115</AreaID>
+    <AreaName>Truck Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>5</AREA_SAKEY>
+  </Area>
+  <Area SiteID="13" AreaID="42">
+    <SiteID>13</SiteID>
+    <AreaID>42</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="13" AreaID="43">
+    <SiteID>13</SiteID>
+    <AreaID>43</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="13" AreaID="119">
+    <SiteID>13</SiteID>
+    <AreaID>119</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="13" AreaID="167">
+    <SiteID>13</SiteID>
+    <AreaID>167</AreaID>
+    <AreaName>P558 Body Main Line</AreaName>
+    <SortOrder>5</SortOrder>
+    <AREA_SAKEY>5</AREA_SAKEY>
+  </Area>
+  <Area SiteID="13" AreaID="168">
+    <SiteID>13</SiteID>
+    <AreaID>168</AreaID>
+    <AreaName>P558 Body Sub Assets</AreaName>
+    <SortOrder>6</SortOrder>
+    <AREA_SAKEY>6</AREA_SAKEY>
+  </Area>
+  <Area SiteID="14" AreaID="46">
+    <SiteID>14</SiteID>
+    <AreaID>46</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="14" AreaID="44">
+    <SiteID>14</SiteID>
+    <AreaID>44</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="14" AreaID="45">
+    <SiteID>14</SiteID>
+    <AreaID>45</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="15" AreaID="7">
+    <SiteID>15</SiteID>
+    <AreaID>7</AreaID>
+    <AreaName>D35 Engine</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="15" AreaID="104">
+    <SiteID>15</SiteID>
+    <AreaID>104</AreaID>
+    <AreaName>PV6 Engine</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="15" AreaID="190">
+    <SiteID>15</SiteID>
+    <AreaID>190</AreaID>
+    <AreaName>D35+ Engine</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="15" AreaID="191">
+    <SiteID>15</SiteID>
+    <AreaID>191</AreaID>
+    <AreaName>PV6 Machining</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="16" AreaID="8">
+    <SiteID>16</SiteID>
+    <AreaID>8</AreaID>
+    <AreaName>6R/4R</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="16" AreaID="9">
+    <SiteID>16</SiteID>
+    <AreaID>9</AreaID>
+    <AreaName>6R3</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="16" AreaID="165">
+    <SiteID>16</SiteID>
+    <AreaID>165</AreaID>
+    <AreaName>10R Assembly</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="16" AreaID="164">
+    <SiteID>16</SiteID>
+    <AreaID>164</AreaID>
+    <AreaName>10R Gears</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="17" AreaID="47">
+    <SiteID>17</SiteID>
+    <AreaID>47</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="17" AreaID="48">
+    <SiteID>17</SiteID>
+    <AreaID>48</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="17" AreaID="49">
+    <SiteID>17</SiteID>
+    <AreaID>49</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="17" AreaID="59">
+    <SiteID>17</SiteID>
+    <AreaID>59</AreaID>
+    <AreaName>Stamping</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="18" AreaID="50">
+    <SiteID>18</SiteID>
+    <AreaID>50</AreaID>
+    <AreaName>Body 1</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="18" AreaID="117">
+    <SiteID>18</SiteID>
+    <AreaID>117</AreaID>
+    <AreaName>Body 2/3</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>5</AREA_SAKEY>
+  </Area>
+  <Area SiteID="18" AreaID="51">
+    <SiteID>18</SiteID>
+    <AreaID>51</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="18" AreaID="52">
+    <SiteID>18</SiteID>
+    <AreaID>52</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="19" AreaID="53">
+    <SiteID>19</SiteID>
+    <AreaID>53</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="19" AreaID="54">
+    <SiteID>19</SiteID>
+    <AreaID>54</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="20" AreaID="55">
+    <SiteID>20</SiteID>
+    <AreaID>55</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="20" AreaID="56">
+    <SiteID>20</SiteID>
+    <AreaID>56</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="20" AreaID="57">
+    <SiteID>20</SiteID>
+    <AreaID>57</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="21" AreaID="10">
+    <SiteID>21</SiteID>
+    <AreaID>10</AreaID>
+    <AreaName>Component Plant</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="22" AreaID="11">
+    <SiteID>22</SiteID>
+    <AreaID>11</AreaID>
+    <AreaName>Premium V8</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="22" AreaID="12">
+    <SiteID>22</SiteID>
+    <AreaID>12</AreaID>
+    <AreaName>D35Head/Coyote</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="23" AreaID="14">
+    <SiteID>23</SiteID>
+    <AreaID>14</AreaID>
+    <AreaName>6F</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="23" AreaID="17">
+    <SiteID>23</SiteID>
+    <AreaID>17</AreaID>
+    <AreaName>6FM</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="23" AreaID="15">
+    <SiteID>23</SiteID>
+    <AreaID>15</AreaID>
+    <AreaName>6R80</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="23" AreaID="16">
+    <SiteID>23</SiteID>
+    <AreaID>16</AreaID>
+    <AreaName>6R140 Assy</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="23" AreaID="177">
+    <SiteID>23</SiteID>
+    <AreaID>177</AreaID>
+    <AreaName>6R140</AreaName>
+    <SortOrder>5</SortOrder>
+    <AREA_SAKEY>5</AREA_SAKEY>
+  </Area>
+  <Area SiteID="24" AreaID="18">
+    <SiteID>24</SiteID>
+    <AreaID>18</AreaID>
+    <AreaName>Area A</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="24" AreaID="58">
+    <SiteID>24</SiteID>
+    <AreaID>58</AreaID>
+    <AreaName>Area B</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="24" AreaID="19">
+    <SiteID>24</SiteID>
+    <AreaID>19</AreaID>
+    <AreaName>Area C</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="24" AreaID="116">
+    <SiteID>24</SiteID>
+    <AreaID>116</AreaID>
+    <AreaName>Area D</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="25" AreaID="20">
+    <SiteID>25</SiteID>
+    <AreaID>20</AreaID>
+    <AreaName>6FM</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="25" AreaID="21">
+    <SiteID>25</SiteID>
+    <AreaID>21</AreaID>
+    <AreaName>6F</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="25" AreaID="22">
+    <SiteID>25</SiteID>
+    <AreaID>22</AreaID>
+    <AreaName>HF35</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="25" AreaID="201">
+    <SiteID>25</SiteID>
+    <AreaID>201</AreaID>
+    <AreaName>8FM Machining</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="25" AreaID="202">
+    <SiteID>25</SiteID>
+    <AreaID>202</AreaID>
+    <AreaName>8FM Assembly</AreaName>
+    <SortOrder>5</SortOrder>
+    <AREA_SAKEY>5</AREA_SAKEY>
+  </Area>
+  <Area SiteID="26" AreaID="23">
+    <SiteID>26</SiteID>
+    <AreaID>23</AreaID>
+    <AreaName>Engine Plant</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="31" AreaID="82">
+    <SiteID>31</SiteID>
+    <AreaID>82</AreaID>
+    <AreaName>Van Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="31" AreaID="83">
+    <SiteID>31</SiteID>
+    <AreaID>83</AreaID>
+    <AreaName>Van Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="31" AreaID="84">
+    <SiteID>31</SiteID>
+    <AreaID>84</AreaID>
+    <AreaName>Van Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="32" AreaID="87">
+    <SiteID>32</SiteID>
+    <AreaID>87</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="32" AreaID="88">
+    <SiteID>32</SiteID>
+    <AreaID>88</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="32" AreaID="89">
+    <SiteID>32</SiteID>
+    <AreaID>89</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="32" AreaID="166">
+    <SiteID>32</SiteID>
+    <AreaID>166</AreaID>
+    <AreaName>Body II</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="33" AreaID="90">
+    <SiteID>33</SiteID>
+    <AreaID>90</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="33" AreaID="91">
+    <SiteID>33</SiteID>
+    <AreaID>91</AreaID>
+    <AreaName>Assembly</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="33" AreaID="92">
+    <SiteID>33</SiteID>
+    <AreaID>92</AreaID>
+    <AreaName>Assembly II</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="34" AreaID="93">
+    <SiteID>34</SiteID>
+    <AreaID>93</AreaID>
+    <AreaName>3V / 4V</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="36" AreaID="101">
+    <SiteID>36</SiteID>
+    <AreaID>101</AreaID>
+    <AreaName>6F35 / FOX</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="38" AreaID="106">
+    <SiteID>38</SiteID>
+    <AreaID>106</AreaID>
+    <AreaName>Engine / Transmission</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="38" AreaID="178">
+    <SiteID>38</SiteID>
+    <AreaID>178</AreaID>
+    <AreaName>Engine</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="39" AreaID="108">
+    <SiteID>39</SiteID>
+    <AreaID>108</AreaID>
+    <AreaName>Machining and Assembly</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="44" AreaID="111">
+    <SiteID>44</SiteID>
+    <AreaID>111</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="44" AreaID="112">
+    <SiteID>44</SiteID>
+    <AreaID>112</AreaID>
+    <AreaName>Assembly</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="44" AreaID="113">
+    <SiteID>44</SiteID>
+    <AreaID>113</AreaID>
+    <AreaName>Machining II</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="45" AreaID="128">
+    <SiteID>45</SiteID>
+    <AreaID>128</AreaID>
+    <AreaName>Assembly</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="45" AreaID="169">
+    <SiteID>45</SiteID>
+    <AreaID>169</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="46" AreaID="129">
+    <SiteID>46</SiteID>
+    <AreaID>129</AreaID>
+    <AreaName>Body - Main</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="46" AreaID="158">
+    <SiteID>46</SiteID>
+    <AreaID>158</AreaID>
+    <AreaName>Body - Closures</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="46" AreaID="130">
+    <SiteID>46</SiteID>
+    <AreaID>130</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="46" AreaID="131">
+    <SiteID>46</SiteID>
+    <AreaID>131</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="47" AreaID="127">
+    <SiteID>47</SiteID>
+    <AreaID>127</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="50" AreaID="120">
+    <SiteID>50</SiteID>
+    <AreaID>120</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="50" AreaID="121">
+    <SiteID>50</SiteID>
+    <AreaID>121</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="50" AreaID="122">
+    <SiteID>50</SiteID>
+    <AreaID>122</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="52" AreaID="123">
+    <SiteID>52</SiteID>
+    <AreaID>123</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="52" AreaID="124">
+    <SiteID>52</SiteID>
+    <AreaID>124</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="52" AreaID="125">
+    <SiteID>52</SiteID>
+    <AreaID>125</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="53" AreaID="132">
+    <SiteID>53</SiteID>
+    <AreaID>132</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="53" AreaID="133">
+    <SiteID>53</SiteID>
+    <AreaID>133</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="53" AreaID="134">
+    <SiteID>53</SiteID>
+    <AreaID>134</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="55" AreaID="135">
+    <SiteID>55</SiteID>
+    <AreaID>135</AreaID>
+    <AreaName>Stamping</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="56" AreaID="136">
+    <SiteID>56</SiteID>
+    <AreaID>136</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="56" AreaID="137">
+    <SiteID>56</SiteID>
+    <AreaID>137</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="56" AreaID="138">
+    <SiteID>56</SiteID>
+    <AreaID>138</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="57" AreaID="139">
+    <SiteID>57</SiteID>
+    <AreaID>139</AreaID>
+    <AreaName>Body 3 - Main Line</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="57" AreaID="141">
+    <SiteID>57</SiteID>
+    <AreaID>141</AreaID>
+    <AreaName>Body 3 - Sub Assemblies</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="57" AreaID="140">
+    <SiteID>57</SiteID>
+    <AreaID>140</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="59" AreaID="162">
+    <SiteID>59</SiteID>
+    <AreaID>162</AreaID>
+    <AreaName>Forge</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="60" AreaID="150">
+    <SiteID>60</SiteID>
+    <AreaID>150</AreaID>
+    <AreaName>Panther Assembly</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="60" AreaID="151">
+    <SiteID>60</SiteID>
+    <AreaID>151</AreaID>
+    <AreaName>Panther Machining</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="60" AreaID="197">
+    <SiteID>60</SiteID>
+    <AreaID>197</AreaID>
+    <AreaName>Tiger Assembly</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="60" AreaID="198">
+    <SiteID>60</SiteID>
+    <AreaID>198</AreaID>
+    <AreaName>Tiger Machining</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="61" AreaID="152">
+    <SiteID>61</SiteID>
+    <AreaID>152</AreaID>
+    <AreaName>Assembly</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="61" AreaID="153">
+    <SiteID>61</SiteID>
+    <AreaID>153</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="63" AreaID="159">
+    <SiteID>63</SiteID>
+    <AreaID>159</AreaID>
+    <AreaName>Engine</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="64" AreaID="176">
+    <SiteID>64</SiteID>
+    <AreaID>176</AreaID>
+    <AreaName>Stamping</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="66" AreaID="215">
+    <SiteID>66</SiteID>
+    <AreaID>215</AreaID>
+    <AreaName>10R Sub Assy</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="66" AreaID="216">
+    <SiteID>66</SiteID>
+    <AreaID>216</AreaID>
+    <AreaName>10R Machining</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="66" AreaID="170">
+    <SiteID>66</SiteID>
+    <AreaID>170</AreaID>
+    <AreaName>8FM Assembly</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="66" AreaID="171">
+    <SiteID>66</SiteID>
+    <AreaID>171</AreaID>
+    <AreaName>8FM Machining</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="67" AreaID="172">
+    <SiteID>67</SiteID>
+    <AreaID>172</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="67" AreaID="173">
+    <SiteID>67</SiteID>
+    <AreaID>173</AreaID>
+    <AreaName>TCF</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="67" AreaID="174">
+    <SiteID>67</SiteID>
+    <AreaID>174</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="68" AreaID="175">
+    <SiteID>68</SiteID>
+    <AreaID>175</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="68" AreaID="203">
+    <SiteID>68</SiteID>
+    <AreaID>203</AreaID>
+    <AreaName>TCF</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="68" AreaID="204">
+    <SiteID>68</SiteID>
+    <AreaID>204</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="71" AreaID="180">
+    <SiteID>71</SiteID>
+    <AreaID>180</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="72" AreaID="183">
+    <SiteID>72</SiteID>
+    <AreaID>183</AreaID>
+    <AreaName>Assembly</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="72" AreaID="184">
+    <SiteID>72</SiteID>
+    <AreaID>184</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="73" AreaID="185">
+    <SiteID>73</SiteID>
+    <AreaID>185</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="73" AreaID="189">
+    <SiteID>73</SiteID>
+    <AreaID>189</AreaID>
+    <AreaName>Body II</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="73" AreaID="187">
+    <SiteID>73</SiteID>
+    <AreaID>187</AreaID>
+    <AreaName>Paint</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="73" AreaID="186">
+    <SiteID>73</SiteID>
+    <AreaID>186</AreaID>
+    <AreaName>Final</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="76" AreaID="194">
+    <SiteID>76</SiteID>
+    <AreaID>194</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="76" AreaID="195">
+    <SiteID>76</SiteID>
+    <AreaID>195</AreaID>
+    <AreaName>Assy</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="76" AreaID="196">
+    <SiteID>76</SiteID>
+    <AreaID>196</AreaID>
+    <AreaName>Body II</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="76" AreaID="219">
+    <SiteID>76</SiteID>
+    <AreaID>219</AreaID>
+    <AreaName>Body III</AreaName>
+    <SortOrder>4</SortOrder>
+    <AREA_SAKEY>4</AREA_SAKEY>
+  </Area>
+  <Area SiteID="77" AreaID="199">
+    <SiteID>77</SiteID>
+    <AreaID>199</AreaID>
+    <AreaName>Assembly</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="77" AreaID="200">
+    <SiteID>77</SiteID>
+    <AreaID>200</AreaID>
+    <AreaName>Machining</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="78" AreaID="207">
+    <SiteID>78</SiteID>
+    <AreaID>207</AreaID>
+    <AreaName>U-Model Body Main Line</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="78" AreaID="208">
+    <SiteID>78</SiteID>
+    <AreaID>208</AreaID>
+    <AreaName>U-Model Body Sub Assets</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="79" AreaID="212">
+    <SiteID>79</SiteID>
+    <AreaID>212</AreaID>
+    <AreaName>Crankshaft Mod1</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="79" AreaID="213">
+    <SiteID>79</SiteID>
+    <AreaID>213</AreaID>
+    <AreaName>Cyl. Head Mod1</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="79" AreaID="214">
+    <SiteID>79</SiteID>
+    <AreaID>214</AreaID>
+    <AreaName>Cyl. Block Mod1</AreaName>
+    <SortOrder>3</SortOrder>
+    <AREA_SAKEY>3</AREA_SAKEY>
+  </Area>
+  <Area SiteID="80" AreaID="209">
+    <SiteID>80</SiteID>
+    <AreaID>209</AreaID>
+    <AreaName>Body</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="80" AreaID="220">
+    <SiteID>80</SiteID>
+    <AreaID>220</AreaID>
+    <AreaName>TCF</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+  <Area SiteID="81" AreaID="210">
+    <SiteID>81</SiteID>
+    <AreaID>210</AreaID>
+    <AreaName>Fox Machining</AreaName>
+    <SortOrder>1</SortOrder>
+    <AREA_SAKEY>1</AREA_SAKEY>
+  </Area>
+  <Area SiteID="81" AreaID="211">
+    <SiteID>81</SiteID>
+    <AreaID>211</AreaID>
+    <AreaName>Fox Assembly</AreaName>
+    <SortOrder>2</SortOrder>
+    <AREA_SAKEY>2</AREA_SAKEY>
+  </Area>
+</vwJ2GAreas>

@@ -1,0 +1,118 @@
+﻿<!doctype html>
+<html lang="en">
+    <head>
+        <base href=""/>
+        
+       
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
+
+        <!-- ============================================================= -->
+        <!-- =======              Vendor CSS                     ========= -->
+        <!-- ============================================================= -->
+        <link rel="stylesheet" href="./resources/webCore/assets/css/FRF-Vendor.v1.2.0.min.css">
+        <link rel="stylesheet" href="./resources/webCore/assets/css/FRF-webCore.v1.2.0.min.css">
+       
+        <link rel="shortcut icon" href="../ford_icon.ico" type="image/x-icon">
+        <link rel="apple-touch-icon" href="../ford_icon.ico">
+        <meta name="msapplication-square150x150logo" content="../ford_icon.ico">
+        <meta name="msapplication-square70x70logo" content="../ford_icon.ico">
+        <meta name="msapplication-square310x310logo" content="../ford_icon.ico">
+        <meta name="msapplication-TileColor" content="#003e7d">
+        <meta name="format-detection" content="telephone=no">
+       
+       
+        <title>FIS-2-Go Boilerplate</title>
+
+    </head>
+    
+    <body ng-app="FIS2GoApp">
+        
+            <!-- ============================================================= -->
+            <!-- =======              Boilerplate Header + Nav       ========= -->
+            <!-- ============================================================= -->
+
+            <header role="banner">
+                <div class="app-branding align-middle hidden-xxs">
+                    <div class="row">
+                        <div class="col-xs-8 col-sm-9 col-md-6">
+                            <div class="media">
+                                <a class="media-left" href="#/">
+                                    <img class="media-object logo" src="./resources/webCore/assets/image/Ford-Oval.png" alt="Ford Oval" />
+                                </a>
+                                <div class="media-body">
+                                    <a class="media-heading" href="#/">FIS-2-Go</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <nav id="navMenu" wc-nav-menu="" menu-data="menu" menu-data-url="newUiApp/applicationMenuData.json" class="ng-scope ng-isolate-scope">
+                <nav class="navbar navbar-default" role="navigation">
+                    <div class="container-fluid">
+                        <div class="navbar-header visible-xxs"><button id="toggle-nav-menu-collapse" type="button" class="navbar-toggle collapsed" ng-click="toggleNavbarCollpase($event)" aria-expanded="false"><span class="sr-only ng-binding">application.navigation.toggleTitle</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div uib-collapse="navbarCollapsed" class="navbar-collapse collapse" id="primary-nav" role="menu" aria-expanded="false" aria-hidden="true" style="height: 0px;">
+                            <ul class="nav navbar-nav">
+                                <li class=""><a ui-sref="about">About</a></li>
+                                <li class=""><a ui-sref="plants">Plants</a></li>
+                                <li class=""><a ui-sref="report1">Report1</a></li>
+
+                            </ul>
+                        </div>  
+                    </div>
+                </nav>
+            </nav>
+
+
+        <!-- ============================================================= -->
+        <!-- =======             Our Code Here                   ========= -->
+        <!-- ============================================================= -->
+        <div class="container-fluid" id="ng-app" >
+            <div class="container" >
+                <h1>FIS-2-Go</h1>
+                <h5>Sample Landing Page</h5>
+                <ui-view></ui-view>
+                
+            </div>
+        </div>
+       
+
+            <!-- ============================================================= -->
+            <!-- =======              Vendor Javascript              ========= -->
+            <!-- ============================================================= -->
+       
+            
+            <script src="./resources/webCore/FRF-Vendor.v1.2.0.min.js"></script>
+            <script src="./resources/webCore/FRF-webCore.v1.2.0.min.js"></script>
+            <script src="./resources/lib/angular-ui-router.js"></script>
+           
+           
+
+            <!-- ============================================================= -->
+            <!-- =======              FIS Javascript                 ========= -->
+            <!-- ============================================================= -->
+
+            <script src="./app/shared/fis/FIS.Module.js"></script>
+            <script src="./app/shared/fis/FIS.Business.Types.js"></script>
+            <script src="./app/shared/fis/FIS.Business.Factory.js"></script>
+            <script src="./app/shared/fis/FIS.Cache.Service.js"></script>
+            <script src="./app/shared/fis/FIS.Exception.Service.js"></script>
+            <script src="./app/shared/fis/FIS.WS.Factory.js"></script>
+            <script src="./app/shared/fis/FIS.Business.Directives.js"></script>
+            <script src="./app/FIS2GoApp.js"></script>
+            <script src="./app/FIS2GoController.js"></script>
+            <script src="./app/FIS2GoApp.State.Service.js"></script>
+            <script src="./app/FIS2GoPlantDetailController.js"></script>
+             <script src="./app/SelectPlantController.js"></script>
+             <script src="./app/Report1Controller.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

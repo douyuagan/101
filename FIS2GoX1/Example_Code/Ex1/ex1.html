@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" />
+
+    <!-- ============================================================= -->
+    <!-- =======              Vendor CSS                     ========= -->
+    <!-- ============================================================= -->
+    <link rel="stylesheet" href="./resources/webCore/assets/css/FRF-Vendor.v1.2.0.min.css">
+    <link rel="stylesheet" href="./resources/webCore/assets/css/FRF-webCore.v1.2.0.min.css">
+
+
+    <link rel="shortcut icon" href="../ford_icon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="../ford_icon.ico">
+    <meta name="msapplication-square150x150logo" content="../ford_icon.ico">
+    <meta name="msapplication-square70x70logo" content="../ford_icon.ico">
+    <meta name="msapplication-square310x310logo" content="../ford_icon.ico">
+    <meta name="msapplication-TileColor" content="#003e7d">
+    <meta name="format-detection" content="telephone=no">
+
+    <title>FIS-2-Go Example 1</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="jumbotron">
+        <h2>Example 1: Pulling Data from a Web-Service</h2>
+        <h3>This example will show pulling data from an .ASMX web-service with documented code</h3>
+    </div>
+        
+        <div class="row" id="result_container">
+            <div class="col-md-1"></div>
+            <div class="col-md-3" style="text-align:center; ">
+                <div style="text-align:center"></div>
+                <h2><i class="fa fa-mobile fa-lg muted"></i>&nbsp;&nbsp;&nbsp;jQuery vs. Angular</h2>
+                <br />
+                <p>This code example uses jQuery $.ajax instead of AngularJS's $http module. They're very similar, I choose jQuery in this case so I didn't have to setup a module and controller.</p>
+            </div>
+            <div class="col-md-3" style="text-align:center; ">
+                <div style="text-align:center"></div>
+                <h2><i class="fa fa-cog fa-lg muted"></i>&nbsp;&nbsp;&nbsp; Run!</h2>
+                <br />
+                <p><button class="btn btn-lg" onclick="FIS.Example1.btnClick()" disabled id="ex1_btn">Click to Run!</button></p>
+                <br />
+            </div>
+            <div class="col-md-3" style="text-align:center;">
+                <div style="text-align:center"></div>
+                <h2><i class="fa fa-bullhorn fa-lg muted"></i>&nbsp;&nbsp;&nbsp;Web-Service</h2>
+                <br />
+                <p>This example contains a small web-service, it will return the date-time, a greeting, and randomly throw an exception, so we can see how the code reacts.</p>
+                <br />
+            </div>
+        </div>
+    </div>
+
+
+    <script src="resources/webCore/FRF-Vendor.v1.2.0.min.js"></script>
+    <script src="Ex1.js"></script>
+
+</body>
+</html>

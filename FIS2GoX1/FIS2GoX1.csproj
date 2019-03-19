@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{834799EC-CD91-4C5D-B883-F5D375FE7CC1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FIS2GoX1</RootNamespace>
+    <AssemblyName>FIS2GoX1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FIS2GoShared">
+      <HintPath>F:\DPAGE31\FIS2GoX\FIS2GoShared\bin\Debug\FIS2GoShared.dll</HintPath>
+    </Reference>
+    <Reference Include="FISCompression">
+      <HintPath>F:\DPAGE31\FIS2GoX\FIS2GoShared\bin\Debug\FISCompression.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app\FIS2GoPlantDetailController.js" />
+    <Content Include="app\Report1Controller.js" />
+    <Content Include="app\SelectPlantController.js" />
+    <Content Include="app\shared\fis\FIS.Business.Directives.js" />
+    <Content Include="app\views\about.html" />
+    <Content Include="app\FIS2GoController.js" />
+    <Content Include="app\views\plantDetail.html" />
+    <Content Include="app\views\plants.html" />
+    <Content Include="app\FIS2GoApp.js" />
+    <Content Include="app\FIS2GoApp.State.Service.js" />
+    <Content Include="app\shared\fis\FIS.Business.Factory.js" />
+    <Content Include="app\shared\fis\FIS.Cache.Service.js" />
+    <Content Include="app\shared\fis\FIS.Exception.Service.js" />
+    <Content Include="app\shared\fis\FIS.WS.Factory.js" />
+    <Content Include="app\views\report1.html" />
+    <Content Include="app\views\SelectPlant.html" />
+    <Content Include="resources\lib\angular-route.min.js" />
+    <Content Include="packages.config" />
+    <Content Include="resources\lib\angular-ui-router2.js" />
+    <Content Include="resources\lib\angular-ui-router.js" />
+    <Content Include="resources\webCore\assets\css\FRF-Vendor.v1.1.0.min.css.map" />
+    <Content Include="resources\webCore\assets\css\FRF-Vendor.v1.2.0.min.css.map" />
+    <Content Include="resources\webCore\assets\css\FRF-webCore.v1.1.0.min.css.map" />
+    <Content Include="resources\webCore\assets\css\FRF-webCore.v1.2.0.min.css.map" />
+    <Content Include="resources\webCore\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="resources\webCore\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="resources\webCore\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="resources\webCore\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="resources\webCore\assets\fonts\FontAwesome.otf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Bold\3fcdf9c8-1bf9-49f4-b9e9-48fba95ab07b-1.ttf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Bold\3fcdf9c8-1bf9-49f4-b9e9-48fba95ab07b-3.woff" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Cond-Bold\3528ac26-02ec-4e01-a488-8831ab9bd963-1.ttf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Cond-Bold\3528ac26-02ec-4e01-a488-8831ab9bd963-3.woff" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Cond-Medium\cd001810-535d-4e5a-b707-6799a4953db8-1.ttf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Cond-Medium\cd001810-535d-4e5a-b707-6799a4953db8-3.woff" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Cond-Regular\328c7edc-c164-4098-aa60-405620c7d1dd-1.ttf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Cond-Regular\328c7edc-c164-4098-aa60-405620c7d1dd-3.woff" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Medium\16cfc826-eb8a-47b2-8d9b-928e47f8157e-1.ttf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Medium\16cfc826-eb8a-47b2-8d9b-928e47f8157e-3.woff" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Regular\d9e5c1ae-3c12-46d7-97a6-a7ff0861e239-1.ttf" />
+    <Content Include="resources\webCore\assets\fonts\Ford-Antenna-Regular\d9e5c1ae-3c12-46d7-97a6-a7ff0861e239-3.woff" />
+    <Content Include="resources\webCore\assets\fonts\foundation-icons.eot" />
+    <Content Include="resources\webCore\assets\fonts\foundation-icons.ttf" />
+    <Content Include="resources\webCore\assets\fonts\foundation-icons.woff" />
+    <Content Include="resources\webCore\assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="resources\webCore\assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="resources\webCore\assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="resources\webCore\assets\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="resources\webCore\FRF-Vendor.v1.1.0.min.js.map" />
+    <Content Include="resources\webCore\FRF-Vendor.v1.2.0.min.js.map" />
+    <Content Include="resources\webCore\FRF-webCore.v1.1.0.min.js.map" />
+    <Content Include="resources\webCore\FRF-webCore.v1.2.0.min.js.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-Vendor.v1.1.0.min.css.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-Vendor.v1.2.0.min.css.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-webCore.v1.1.0.min.css.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-webCore.v1.2.0.min.css.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\FontAwesome.otf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Bold\3fcdf9c8-1bf9-49f4-b9e9-48fba95ab07b-1.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Bold\3fcdf9c8-1bf9-49f4-b9e9-48fba95ab07b-3.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Cond-Bold\3528ac26-02ec-4e01-a488-8831ab9bd963-1.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Cond-Bold\3528ac26-02ec-4e01-a488-8831ab9bd963-3.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Cond-Medium\cd001810-535d-4e5a-b707-6799a4953db8-1.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Cond-Medium\cd001810-535d-4e5a-b707-6799a4953db8-3.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Cond-Regular\328c7edc-c164-4098-aa60-405620c7d1dd-1.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Cond-Regular\328c7edc-c164-4098-aa60-405620c7d1dd-3.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Medium\16cfc826-eb8a-47b2-8d9b-928e47f8157e-1.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Medium\16cfc826-eb8a-47b2-8d9b-928e47f8157e-3.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Regular\d9e5c1ae-3c12-46d7-97a6-a7ff0861e239-1.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\Ford-Antenna-Regular\d9e5c1ae-3c12-46d7-97a6-a7ff0861e239-3.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\foundation-icons.eot" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\foundation-icons.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\foundation-icons.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-Vendor.v1.1.0.min.js.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-Vendor.v1.2.0.min.js.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-webCore.v1.1.0.min.js.map" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-webCore.v1.2.0.min.js.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataSource.asmx" />
+    <Content Include="Example_Code\Ex1\Ex1.asmx" />
+    <Content Include="Example_Code\Ex1\ex1.html" />
+    <Content Include="Example_Code\Ex1\Ex1.js" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\font-awesome.css" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\font-awesome.min.css" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-Vendor.v1.1.0.min.css" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-Vendor.v1.2.0.min.css" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-webCore.v1.1.0.min.css" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\css\FRF-webCore.v1.2.0.min.css" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\foundation-icons.svg" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\image\Ford-Oval.png" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\image\ford_favicon16_32_64_256.ico" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\image\icons_sprite.png" />
+    <Content Include="Example_Code\Ex1\resources\webCore\assets\image\loading-anim.gif" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-Vendor.v1.1.0.min.js" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-Vendor.v1.2.0.min.js" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-webCore.v1.1.0.min.js" />
+    <Content Include="Example_Code\Ex1\resources\webCore\FRF-webCore.v1.2.0.min.js" />
+    <Content Include="ford_icon.ico" />
+    <Content Include="index.html" />
+    <Content Include="app\shared\fis\FIS.Business.Types.js" />
+    <Content Include="app\shared\fis\FIS.Module.js" />
+    <Content Include="resources\webCore\assets\css\font-awesome.css" />
+    <Content Include="resources\webCore\assets\css\font-awesome.min.css" />
+    <Content Include="resources\webCore\assets\css\FRF-Vendor.v1.1.0.min.css" />
+    <Content Include="resources\webCore\assets\css\FRF-Vendor.v1.2.0.min.css" />
+    <Content Include="resources\webCore\assets\css\FRF-webCore.v1.1.0.min.css" />
+    <Content Include="resources\webCore\assets\css\FRF-webCore.v1.2.0.min.css" />
+    <Content Include="resources\webCore\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="resources\webCore\assets\fonts\foundation-icons.svg" />
+    <Content Include="resources\webCore\assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="resources\webCore\assets\image\Ford-Oval.png" />
+    <Content Include="resources\webCore\assets\image\ford_favicon16_32_64_256.ico" />
+    <Content Include="resources\webCore\assets\image\icons_sprite.png" />
+    <Content Include="resources\webCore\assets\image\loading-anim.gif" />
+    <Content Include="resources\webCore\FRF-Vendor.v1.1.0.min.js" />
+    <Content Include="resources\webCore\FRF-Vendor.v1.2.0.min.js" />
+    <Content Include="resources\webCore\FRF-webCore.v1.1.0.min.js" />
+    <Content Include="resources\webCore\FRF-webCore.v1.2.0.min.js" />
+    <Content Include="resources\xml\vwJ2GAreas.xml" />
+    <Content Include="resources\xml\vwJ2GTargets.xml" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSource.asmx.cs">
+      <DependentUpon>DataSource.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Example_Code\Ex1\Ex1.asmx.cs">
+      <DependentUpon>Ex1.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="App_Code\FISLogging.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Example_Code\Ex1\resources\js\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54975</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:54975/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

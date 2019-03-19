@@ -1,0 +1,108 @@
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.csprojResolveAssemblyReference.cache
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\csc.exe
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\vbc.exe
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\VBCSCompiler.exe
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.dll.config
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.pdb
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FIS2GoShared.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FISCompression.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FIS2GoShared.pdb
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\FISCompression.pdb
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.dll
+c:\users\dpage31\documents\visual studio 2015\Projects\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.pdb
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\csc.exe
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\System.Collections.Immutable.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\System.Reflection.Metadata.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\vbc.exe
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\VBCSCompiler.exe
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\roslyn\VBCSCompiler.exe.config
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.dll.config
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.pdb
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FIS2GoShared.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FISCompression.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FIS2GoShared.pdb
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\FISCompression.pdb
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.csprojResolveAssemblyReference.cache
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.dll
+F:\DPAGE31\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.pdb
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\csc.exe
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\vbc.exe
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\VBCSCompiler.exe
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.dll.config
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\FIS2GoX1.pdb
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1\FIS2GoX1\obj\Debug\FIS2GoX1.pdb
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\csc.exe
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\vbc.exe
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\VBCSCompiler.exe
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\FIS2GoX1.dll.config
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\FIS2GoX1.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\FIS2GoX1.pdb
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\obj\Debug\FIS2GoX1.csprojResolveAssemblyReference.cache
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\obj\Debug\FIS2GoX1.dll
+C:\Users\LGAN4\Desktop\FIS2GoX1 - Copy (2)\FIS2GoX1\obj\Debug\FIS2GoX1.pdb
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\csc.exe
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\vbc.exe
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\FIS2GoX1.dll.config
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\FIS2GoX1.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\FIS2GoX1.pdb
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\obj\Debug\FIS2GoX1.csproj.CoreCompileInputs.cache
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\obj\Debug\FIS2GoX1.csproj.CopyComplete
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\obj\Debug\FIS2GoX1.dll
+C:\Users\Gan\Desktop\FIS2GO\FIS2GoX1\obj\Debug\FIS2GoX1.pdb
